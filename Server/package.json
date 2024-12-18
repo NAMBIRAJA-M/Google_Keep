@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"server for google keep\"",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAMBIRAJA-M/Google_Keep.git"
+  },
+  "author": "NAMBI RAJA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAMBIRAJA-M/Google_Keep/issues"
+  },
+  "homepage": "https://github.com/NAMBIRAJA-M/Google_Keep#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
